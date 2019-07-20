@@ -6,4 +6,3 @@ def calc(numbers):
 
 numbers=[111,222,333]
 sum=calc(numbers)
-a=sum
