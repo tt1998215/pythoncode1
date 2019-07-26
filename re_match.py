@@ -10,3 +10,4 @@ def is_valid_email(addr):
     else:
         print('false')
 is_valid_email(email2)
+is_valid_email(email1)
